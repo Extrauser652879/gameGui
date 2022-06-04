@@ -1,0 +1,7 @@
+com/max/gamegui/CreateGui.class
+com/max/gamegui/listeners/PlayerJoin.class
+com/max/gamegui/listeners/InventoryClick.class
+com/max/gamegui/listeners/PlayerInteract.class
+com/max/gamegui/GameGui.class
+com/max/gamegui/Itemstacks.class
+com/max/gamegui/listeners/PlayerDropItem.class
